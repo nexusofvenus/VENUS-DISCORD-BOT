@@ -1,13 +1,9 @@
 # 📚 Venus Bot - Discord Study Helper
 
-
-A Discord bot designed to help students stay organized and productive with study timers, to-do lists, and motivational support!
-
 ![Bot Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)
 
-Venus bot is a study bot which I experimentally created after finding inadequate tools for studying and focus on discord. This bot is still under development and will undergo further updates including voice, goal tracking etc. 
-
+Venus bot is a study bot which I experimentally created after finding inadequate tools for studying and focus on discord. It is mainly designed to help students stay organized and productive with study timers, to-do lists, and motivational support!
 
 ## ✨ Features
 
@@ -79,6 +75,14 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 
 This project is open source and available under the MIT License.
+
+## 🔗 Add to Your Server
+
+Click the button below to invite Venus Bot to your Discord server!
+
+[![Invite Bot](https://img.shields.io/badge/Invite-Venus%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/oauth2/authorize?client_id=1441685596115304569&permissions=8516802323086400&integration_type=0&scope=bot])
+
+Or use this direct link: [Invite Venus Bot](https://discord.com/oauth2/authorize?client_id=1441685596115304569&permissions=8516802323086400&integration_type=0&scope=bot)
 
 ## 👤 Author
 
